@@ -1,11 +1,21 @@
-# Mernyx
+<p align="center">
+  <img src="assets/icon.png" width="112" height="112" alt="Mernyx app icon">
+</p>
 
-Native macOS editor for Mermaid diagrams. Move a node on the canvas and the Mermaid source follows; edit the source and the canvas recompiles. No WebView, no JavaScript bridge, no Electron.
+<h1 align="center">Mernyx</h1>
 
-- Website: https://mernyx.com
-- Pricing: https://mernyx.com/pricing/
-- Support: https://mernyx.com/support/
-- Follow: https://x.com/isacedx
+<p align="center">
+  <strong>Visual Mermaid, Natively</strong><br>
+  Native macOS editor for Mermaid diagrams. Move a node and the source follows —
+  no WebView, no JavaScript bridge, no Electron.
+</p>
+
+<p align="center">
+  <a href="https://mernyx.com">Website</a> ·
+  <a href="https://mernyx.com/pricing/">Pricing</a> ·
+  <a href="https://mernyx.com/support/">Support</a> ·
+  <a href="https://x.com/isacedx">X</a>
+</p>
 
 ## What this repository is
 
