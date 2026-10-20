@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support and FAQ
+    url: https://mernyx.com/support/
+    about: Requirements, common questions, and how to reach the developer.
+  - name: Mernyx on X
+    url: https://x.com/isacedx
+    about: Short updates and release notes.
