@@ -35,6 +35,10 @@ Mernyx Pro is a one-time $19 licence that unlocks canvas editing, style and labe
 
 Requirements: macOS 14 or later, Apple silicon or Intel.
 
+<p align="center">
+  <img src="assets/app-window.webp" alt="Mernyx — source, canvas and properties side by side" width="100%">
+</p>
+
 ## Install
 
 Homebrew:
