@@ -41,8 +41,12 @@ Homebrew:
 
 ```sh
 brew tap mernyx-app/mernyx
+brew trust --tap mernyx-app/mernyx
 brew install --cask mernyx
 ```
+
+The `brew trust` step is required by Homebrew 7 before it will load a cask from a
+third-party tap.
 
 Or download the signed and notarised build from [mernyx.com](https://mernyx.com).
 
