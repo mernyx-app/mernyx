@@ -35,6 +35,24 @@ Mernyx Pro is a one-time $19 licence that unlocks canvas editing, style and labe
 
 Requirements: macOS 14 or later, Apple silicon or Intel.
 
+## Install
+
+Homebrew:
+
+```sh
+brew tap mernyx-app/mernyx
+brew install --cask mernyx
+```
+
+Or download the signed and notarised build from [mernyx.com](https://mernyx.com).
+
+The Homebrew cask installs the **standalone (direct) build**, which uses a licence
+key instead of the Mac App Store receipt. It uses the same bundle identifier as
+the App Store edition, so only one copy can be installed at a time — installing
+one replaces the other, and store purchases do not carry over.
+
+The app updates itself; Homebrew is the install path, not the update channel.
+
 ## Before filing an issue
 
 - Check the [support page](https://mernyx.com/support/) and the FAQ.
